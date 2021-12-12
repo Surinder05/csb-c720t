@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "https://surinder05.github.io/csb-c720t/static/css/main.02a6fa2d.chunk.css",
+    "main.js": "https://surinder05.github.io/csb-c720t/static/js/main.b289e2db.chunk.js",
+    "main.js.map": "https://surinder05.github.io/csb-c720t/static/js/main.b289e2db.chunk.js.map",
+    "runtime-main.js": "https://surinder05.github.io/csb-c720t/static/js/runtime-main.cd512cde.js",
+    "runtime-main.js.map": "https://surinder05.github.io/csb-c720t/static/js/runtime-main.cd512cde.js.map",
+    "static/css/2.31962db9.chunk.css": "https://surinder05.github.io/csb-c720t/static/css/2.31962db9.chunk.css",
+    "static/js/2.692fc0ea.chunk.js": "https://surinder05.github.io/csb-c720t/static/js/2.692fc0ea.chunk.js",
+    "static/js/2.692fc0ea.chunk.js.map": "https://surinder05.github.io/csb-c720t/static/js/2.692fc0ea.chunk.js.map",
+    "index.html": "https://surinder05.github.io/csb-c720t/index.html",
+    "static/css/2.31962db9.chunk.css.map": "https://surinder05.github.io/csb-c720t/static/css/2.31962db9.chunk.css.map",
+    "static/css/main.02a6fa2d.chunk.css.map": "https://surinder05.github.io/csb-c720t/static/css/main.02a6fa2d.chunk.css.map",
+    "static/js/2.692fc0ea.chunk.js.LICENSE.txt": "https://surinder05.github.io/csb-c720t/static/js/2.692fc0ea.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "https://surinder05.github.io/csb-c720t/static/media/webdesign.12f85e88.png",
+    "static/media/Rectangle-serv.f632aff5.png": "https://surinder05.github.io/csb-c720t/static/media/Rectangle-serv.f632aff5.png",
+    "static/media/Rectangle1.1e362b3b.png": "https://surinder05.github.io/csb-c720t/static/media/Rectangle1.1e362b3b.png",
+    "static/media/ct-contact.fcbba29f.png": "https://surinder05.github.io/csb-c720t/static/media/ct-contact.fcbba29f.png",
+    "static/media/ft-box.fc48b57a.png": "https://surinder05.github.io/csb-c720t/static/media/ft-box.fc48b57a.png",
+    "static/media/h-young.86c51eaf.png": "https://surinder05.github.io/csb-c720t/static/media/h-young.86c51eaf.png",
+    "static/media/ladyprof.14f18714.png": "https://surinder05.github.io/csb-c720t/static/media/ladyprof.14f18714.png",
+    "static/media/logobrand.faca8203.png": "https://surinder05.github.io/csb-c720t/static/media/logobrand.faca8203.png",
+    "static/media/main.a0f57d5a.png": "https://surinder05.github.io/csb-c720t/static/media/main.a0f57d5a.png",
+    "static/media/professional.2972afb3.png": "https://surinder05.github.io/csb-c720t/static/media/professional.2972afb3.png",
+    "static/media/sign.f1a35e14.png": "https://surinder05.github.io/csb-c720t/static/media/sign.f1a35e14.png",
+    "static/media/slider1.d1854740.png": "https://surinder05.github.io/csb-c720t/static/media/slider1.d1854740.png",
+    "static/media/slider2.5f8bac61.png": "https://surinder05.github.io/csb-c720t/static/media/slider2.5f8bac61.png",
+    "static/media/slider3.af0bd552.png": "https://surinder05.github.io/csb-c720t/static/media/slider3.af0bd552.png",
+    "static/media/srv-mobile1.6c3dcb0d.png": "https://surinder05.github.io/csb-c720t/static/media/srv-mobile1.6c3dcb0d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd512cde.js",
+    "static/css/2.31962db9.chunk.css",
+    "static/js/2.692fc0ea.chunk.js",
+    "static/css/main.02a6fa2d.chunk.css",
+    "static/js/main.b289e2db.chunk.js"
+  ]
+}
